@@ -1,0 +1,1 @@
+A social communication software that simulates wechat, QQ, Facebook, etc., can be used to replace the private cloud version of QQ, and create a safe and fresh interior for enterprises Communication tools.
